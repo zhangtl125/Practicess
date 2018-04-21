@@ -5,7 +5,7 @@ public class Student {
 	public int id;
 
 	public int getId() {
-		System.out.println("id");
+		System.out.println("id555");
 		return id;
 	}
 
